@@ -1,12 +1,9 @@
+from elementos import tabela_periodica
 
 
+molecula = 'Ca3(PO4)2'
 
-molecula = 'ca3(po4)2'
-tabela_periodica = {
-    'ca': 40.078,
-    'p' : 30.974,
-    'o' : 15.999,
-}
+
 coeficientes = {}
 MassaMolar = 0
 
